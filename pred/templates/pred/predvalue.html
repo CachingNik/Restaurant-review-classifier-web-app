@@ -1,5 +1,11 @@
+{% extends '_base.html' %}
+{% block content %}
 {% if response == 1 %}
 Positive Feedback
 {% else %}
 Negative Feedback
 {% endif %}
+<br>
+<br>
+<a href=""><button type="button" class="btn btn-success" name="button">Try another</button></a>
+{% endblock content %}
