@@ -1,3 +1,2 @@
-## This is your duty 
-
+NLP + Django
 Developed by - Nikhil Gupta & Navkiran Singh
