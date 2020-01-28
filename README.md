@@ -1,5 +1,2 @@
-## Restaurant Review Classifier
-
-# Master Branch
-
+NLP + Django
 Developed by - Nikhil Gupta & Navkiran Singh
